@@ -38,15 +38,24 @@ a {
   color: #404bbf;
 }
 
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .header-address {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 .header-address:hover {
+  color: #404bbf;
+}
+
+.header-address:focus {
   color: #404bbf;
 }
 
@@ -153,7 +162,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
