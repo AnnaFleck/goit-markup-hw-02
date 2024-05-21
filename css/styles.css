@@ -108,11 +108,11 @@ a {
   color: #434455;
 }
 
-.hero-team {
+.team {
   background: #f4f4fd;
 }
 
-.hero-team-title {
+.team-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -122,11 +122,11 @@ a {
   text-transform: capitalize;
 }
 
-.hero-team-item {
+.team-item {
   background: #fff;
 }
 
-.hero-team-names {
+.team-names {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -135,7 +135,7 @@ a {
   color: #2e2f42;
 }
 
-.hero-team-text {
+.team-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -144,11 +144,11 @@ a {
   color: #434455;
 }
 
-.hero-portfolio-item {
+.portfolio-item {
   background: #fff;
 }
 
-.hero-portfolio-caption {
+.portfolio-caption {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -158,7 +158,7 @@ a {
   text-transform: capitalize;
 }
 
-.hero-portfolio-title {
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -166,7 +166,7 @@ a {
   color: #2e2f42;
 }
 
-.hero-portfolio-text {
+.portfolio-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
